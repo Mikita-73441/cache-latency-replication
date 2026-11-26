@@ -1,0 +1,60 @@
+
+
+Name                      : 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+NumberOfCores             : 6
+NumberOfLogicalProcessors : 12
+MaxClockSpeed             : 2688
+L2CacheSize               : 7680
+L3CacheSize               : 12288
+
+
+
+
+Purpose  InstalledSize
+-------  -------------
+L1 Cache           288
+L1 Cache           192
+L2 Cache          7680
+L3 Cache         12288
+
+
+
+
+Manufacturer        : ASUSTeK COMPUTER INC.
+Model               : ASUS TUF Gaming F15 FX506HC_FX506HC
+TotalPhysicalMemory : 16888295424
+
+
+
+
+Manufacturer PartNumber           Speed ConfiguredClockSpeed   Capacity
+------------ ----------           ----- --------------------   --------
+Samsung      M471A1G44AB0-CWE      3200                 3200 8589934592
+Samsung      M471A1G44AB0-CWE      3200                 3200 8589934592
+
+
+
+
+Caption        : �������� Windows 11 �������
+Version        : 10.0.26200
+OSArchitecture : 64-ࠧ�來��
+
+
+
+
+
+BatteryStatus            : 2
+EstimatedChargeRemaining : 96
+
+
+
+GUID �奬� ��⠭��: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c  (��᮪�� �ந�����⥫쭮���)
+Name      
+----      
+1049      
+v2.0.50727
+v3.0      
+v3.5      
+v4.0.30319
+
+

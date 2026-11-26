@@ -1,0 +1,48 @@
+
+
+Name                      : Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz
+NumberOfCores             : 8
+NumberOfLogicalProcessors : 16
+MaxClockSpeed             : 2401
+L2CacheSize               : 2048
+L3CacheSize               : 20480
+
+
+
+
+Purpose         InstalledSize
+-------         -------------
+CPU Internal L1           512
+CPU Internal L2          2048
+CPU Internal L3         20480
+
+
+
+
+Manufacturer        : Intel
+Model               : X99
+TotalPhysicalMemory : 17078767616
+
+
+
+
+Manufacturer PartNumber           Speed ConfiguredClockSpeed   Capacity
+------------ ----------           ----- --------------------   --------
+Undefined    DDR4 8GB 3200         3200                 1866 8589934592
+Undefined    DDR4 8GB 3200         3200                 1866 8589934592
+
+
+
+
+Caption        : �������� Windows 11 Pro
+Version        : 10.0.26100
+OSArchitecture : 64-ࠧ�來��
+
+
+
+GUID �奬� ��⠭��: 381b4222-f694-41f0-9685-ff5bb260df2e  (�������஢�����)
+Name      
+----      
+v4.0.30319
+
+
